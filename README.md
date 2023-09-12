@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @plyler1
 - 👀 I’m interested in working as a software engineer.
-- 🌱 I’m currently learning how to implement GUI.
 - 💞️ I’m looking to collaborate on any potential projects!
 - 📫 How to reach me: dplyler@uci.edu
 
