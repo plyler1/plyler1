@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @plyler1
-- 👀 I’m interested in working as a software engineer.
-- 💞️ I’m looking to collaborate on any potential projects!
-- 📫 How to reach me: dplyler@uci.edu
+- 👀 I’m currently working as a software engineer and interested in working for increasingly difficult and high-priority projects.
+- 📫 How to reach me: dylanplyler2002@gmail.com
 
 <!---
 plyler1/plyler1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
